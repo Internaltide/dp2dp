@@ -77,4 +77,4 @@
  - [享元模式(Flyweight)](https://github.com/Internaltide/dp2dp/tree/master/articles/Flyweight.md)
  - [解譯器模式(Interpreter)](https://github.com/Internaltide/dp2dp/tree/master/articles/Interpreter.md)
  - [訪問者模式(Visitor)](https://github.com/Internaltide/dp2dp/tree/master/articles/Visitor.md)
- - [ ](https://ec-supplier.books.com.tw/profile/prints)
+ - [_](https://ec-supplier.books.com.tw/profile/prints)
